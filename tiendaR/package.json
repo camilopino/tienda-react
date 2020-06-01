@@ -20,7 +20,7 @@
     "react-router": "^2.7.0",
     "react-router-dom": "^5.2.0",
     "style-loader": "^1.2.1",
-    "superagent": "^3.4.0",
+    "superagent": "^3.7.0",
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.5.0"
   },
