@@ -1,0 +1,23 @@
+#app{
+  background: url(../../../images/main-fondo.jpg);
+  background-attachment: fixed;
+}
+.principal{
+  margin:3%;
+}
+.contenedorImg{
+    padding:10%;
+}
+img{
+  width: 100%;
+  height: 220px;
+}
+.titulo{
+  padding-left: 5%;
+}
+.card{
+  opacity: 0.95;
+}
+.titulocatalogo{
+  padding: 1%;
+}

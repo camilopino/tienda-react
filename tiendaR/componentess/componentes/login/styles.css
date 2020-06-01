@@ -1,0 +1,18 @@
+.contenedor-login{
+    margin:0;
+    background: url(../../../images/login-fondo.jpg);
+    background-repeat:repeat-y;
+}
+.tarjeta{
+  margin-top: 250px;
+  color:white;
+}
+.btnLogin{
+  margin-left: 150px;
+}
+label{
+  color:white;
+}
+h3{
+  text-align: center;
+}
